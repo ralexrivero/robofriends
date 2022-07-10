@@ -26,7 +26,6 @@ Install [tachyons](https://tachyons.io/install) a website style framework
 
 ## install
 
-- `git clone https://github.com/ralexrivero/xelar.tech.git`
+- `git clone https://github.com/ralexrivero/robofriends.git`
 - `npm install`
 - `npm start`
-
