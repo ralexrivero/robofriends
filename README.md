@@ -33,3 +33,19 @@ Install [tachyons](https://tachyons.io/install) a website style framework
 - `git clone https://github.com/ralexrivero/robofriends.git`
 - `npm install`
 - `npm start`
+
+## Build
+
+- `npm run build`
+- add `"homepage": "https://ralex.me/robofriends"` to `package.json`
+- `npm install --save gh-pages`
+- add the folowing to `package.json`
+
+```json
+  "scripts": {
++   "predeploy": "npm run build",
++   "deploy": "gh-pages -d build",
+```
+
+- `npm run deploy`
+- Set up _`GitHub Pages`_ to _`gh-pages`_ branch
