@@ -1,14 +1,8 @@
-# xelar.tech
-
-portfolio project
-
-## ssh to server
-
-`ssh -i xelar.tech root@147.182.225.30`
+# Robofriends
 
 ## create react app
 
-### local container
+### Run Docker container
 
 - `docker run -v /mnt/code/repos/:/repos --publish 3000:8000 -d -it --rm --user node --name node-app node:16`
 - `docker exec -it node-app bash`
@@ -20,7 +14,7 @@ Install [tachyons](https://tachyons.io/install) a website style framework
 
 - `npm install tachyons`
 
-### Robofriends
+### Images
 
 - get images from [robohash](https://robohash.org)
 
