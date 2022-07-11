@@ -24,6 +24,10 @@ Install [tachyons](https://tachyons.io/install) a website style framework
 
 - get images from [robohash](https://robohash.org)
 
+### Users
+
+- `https://jsonplaceholder.typicode.com/users`
+
 ## install
 
 - `git clone https://github.com/ralexrivero/robofriends.git`
