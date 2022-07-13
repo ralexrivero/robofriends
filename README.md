@@ -14,6 +14,13 @@ Install [tachyons](https://tachyons.io/install) a website style framework
 
 - `npm install tachyons`
 
+### update
+
+- `docker exec -it --user root node-app bash`
+- `npm install -g npm`
+- `npm audit`
+- `npm audit fix --force`
+
 ### Images
 
 - get images from [robohash](https://robohash.org)
@@ -43,3 +50,16 @@ Install [tachyons](https://tachyons.io/install) a website style framework
 
 - `npm run deploy`
 - Set up _`GitHub Pages`_ to _`gh-pages`_ branch
+
+## Redux
+
+- `npm install redux`
+- `npm install react-redux`
+
+## Middleware
+
+- `npm install redux-logger`
+
+## Async
+
+- `npm install redux-thunk`
