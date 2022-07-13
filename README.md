@@ -48,6 +48,7 @@ Install [tachyons](https://tachyons.io/install) a website style framework
 +   "deploy": "gh-pages -d build",
 ```
 
+> using user node 
 - `npm run deploy`
 - Set up _`GitHub Pages`_ to _`gh-pages`_ branch
 
