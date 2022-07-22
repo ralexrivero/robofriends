@@ -65,3 +65,11 @@ Install [tachyons](https://tachyons.io/install) a website style framework
 ## Async
 
 - `npm install redux-thunk`
+- update to React.lazy()
+
+## Performance
+
+- `http://localhost:3000/?react_perf`
+- go to developers tools/ performance tab
+
+> Allows to see components perfomance
